@@ -9,6 +9,9 @@ public class Main {
 
         if(true)
             System.out.println("Jerry");
+        else
+            System.out.println("Tom");
+
     }
 
 }
