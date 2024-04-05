@@ -3,8 +3,8 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         if(true)
-            System.out.println("Hello world!");
+            System.out.print("Hello world");
         else
-            System.out.println("goodbye");
+            System.out.print("goodbye");
     }
 }
