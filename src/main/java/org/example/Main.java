@@ -9,6 +9,9 @@ public class Main {
 
         if(true)
             System.out.println("Jerry");
+
+        for(int i=0; i<10; ++i)
+            System.out.println(i);
     }
 
 }
