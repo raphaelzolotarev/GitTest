@@ -6,5 +6,9 @@ public class Main {
             System.out.println("Hello world!");
         else
             System.out.println("goodbye");
+
+        if(true)
+            System.out.println("Jerry");
     }
+
 }
