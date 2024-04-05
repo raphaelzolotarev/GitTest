@@ -17,6 +17,8 @@ public class Main {
 
         if(true)
             System.out.println("Bob");
+        else
+            System.out.println("Marta");
     }
 
 }
