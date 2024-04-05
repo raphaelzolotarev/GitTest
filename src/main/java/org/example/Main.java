@@ -11,7 +11,9 @@ public class Main {
             System.out.println("Jerry");
         else
             System.out.println("Tom");
-
+        
+        for(int i=0; i<10; ++i)
+            System.out.println(i);
     }
 
 }
