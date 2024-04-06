@@ -1,7 +1,10 @@
 package org.example;
-
+import java.time.LocalDate;
 public class Main {
     public static void main(String[] args) {
+
+        System.out.println(LocalDate.now());
+        
         if(true)
             System.out.print("Hello world");
         else
