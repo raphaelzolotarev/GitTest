@@ -23,6 +23,9 @@ public class Main {
         do {
             System.out.println("Kim");
         }while (false);
+
+        system.exit(1);
+        
     }
 
 }
