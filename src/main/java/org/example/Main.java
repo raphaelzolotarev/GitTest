@@ -19,6 +19,10 @@ public class Main {
             System.out.println("Bob");
         else
             System.out.println("Marta");
+
+        do {
+            System.out.println("Kim");
+        }while (false);
     }
 
 }
